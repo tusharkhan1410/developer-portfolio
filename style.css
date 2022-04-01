@@ -9,7 +9,7 @@ h1{
 .name-color{
     color: orange;
 }
-section{
+.flex-container{
     display: flex;
     padding-bottom: 150px;
 }
